@@ -1,0 +1,17 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box == 6.0.2
+pyYAML               # this used to read yaml file
+tqdm
+ensure == 1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-core
+-e .                 # this is used to install setup.py which is src folder
