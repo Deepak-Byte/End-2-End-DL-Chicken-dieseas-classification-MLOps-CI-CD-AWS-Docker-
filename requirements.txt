@@ -14,4 +14,6 @@ types-pyYAML
 scipy
 Flask
 Flask-core
+typeguard
+beartype
 -e .                 # this is used to install setup.py which is src folder
